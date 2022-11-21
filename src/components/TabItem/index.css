@@ -1,0 +1,18 @@
+.listedTabItems {
+  display: flex;
+  list-style-type: none;
+  font-size: 18px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #7b8794;
+  margin-left: 4px;
+  margin-right: 4px;
+  border: none;
+  background-color: transparent;
+}
+
+.activeBtn {
+  color: #2563eb;
+  cursor: pointer;
+  outline: none;
+}

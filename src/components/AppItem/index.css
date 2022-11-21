@@ -1,0 +1,21 @@
+.cont {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff1eb;
+  border-style: none;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.app-image {
+  height: 220px;
+  width: 220px;
+}
+.para {
+  font-size: 18px;
+  font-family: 'Bree Serif';
+  text-align: center;
+}
